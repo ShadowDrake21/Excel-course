@@ -1,0 +1,31 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadowDrake21/Excel-course.git"
+  },
+  "keywords": [
+    "js",
+    "javascript.",
+    "excel"
+  ],
+  "author": "Dmytro Krapyvianskyi <dimka670020040@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShadowDrake21/Excel-course/issues"
+  },
+  "homepage": "https://github.com/ShadowDrake21/Excel-course#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
+  }
+}
