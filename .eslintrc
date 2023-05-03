@@ -12,7 +12,14 @@
     "require-jsdoc": "off",
     "linebreak-style": "off",
     "no-unused-vars": "off",
-    "object-curly-spacing": "off"
+    "object-curly-spacing": "off",
+    "no-trailing-spaces": "off",
+    "eol-last": "off",
+    "no-extra-semi": "off",
+    "indent": "off",
+    "operator-linebreak": "off",
+    "no-debugger": "off",
+    "max-len": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
