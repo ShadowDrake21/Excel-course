@@ -19,7 +19,10 @@
     "indent": "off",
     "operator-linebreak": "off",
     "no-debugger": "off",
-    "max-len": "off"
+    "max-len": "off",
+    "space-before-blocks":"off",
+    "keyword-spacing": "off",
+    "prefer-const": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
