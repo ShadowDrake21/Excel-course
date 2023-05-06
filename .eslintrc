@@ -22,7 +22,8 @@
     "max-len": "off",
     "space-before-blocks":"off",
     "keyword-spacing": "off",
-    "prefer-const": "off"
+    "prefer-const": "off",
+    "space-before-function-paren": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
