@@ -23,7 +23,8 @@
     "space-before-blocks":"off",
     "keyword-spacing": "off",
     "prefer-const": "off",
-    "space-before-function-paren": "off"
+    "space-before-function-paren": "off",
+    "no-case-declarations": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
