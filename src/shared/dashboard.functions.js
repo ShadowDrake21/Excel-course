@@ -24,7 +24,6 @@ function getAllKeys() {
     }
     keys.push(key)
   }
-
   return keys
 }
 
